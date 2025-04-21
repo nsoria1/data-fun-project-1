@@ -1,0 +1,15 @@
+# Sample data location
+python_ingest/data/
+
+# Pyenv file
+.python-version
+
+# Python Venv
+venv
+__pycache__
+
+# MacOs file
+.DS_Store
+
+# IDEs
+.idea
