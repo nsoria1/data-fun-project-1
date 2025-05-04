@@ -1,0 +1,5 @@
+package pipeline
+
+object Pipeline {
+
+}
