@@ -45,3 +45,8 @@ build/
 
 ### Scala ###
 .bsp/
+
+### Java ###
+.java-version
+openjdk.jdk
+checkpoints
