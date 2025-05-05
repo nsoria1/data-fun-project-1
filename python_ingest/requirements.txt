@@ -1,0 +1,3 @@
+confluent-kafka
+ijson
+pytest
